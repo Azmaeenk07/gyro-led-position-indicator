@@ -44,8 +44,6 @@ Install via Arduino Library Manager
 2. Tilt the board to see LED indicator move across matrix
 3. Level board to see centered position
 
-## Demo
-[Optional: Add a photo or video here later]
 
 ## Author
 Azmaeen Kaikobad  
